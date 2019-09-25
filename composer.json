@@ -29,17 +29,7 @@
     },
     
     
-    {
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/AbhinavDobhal/laravelcdn.git"
-        }
-    ],
-    "require": {
-        "AbhinavDobhal/laravelcdn": "dev-bugfix"
-    }
-},
+  
     "require-dev": {
         "phpunit/phpunit": "~4.0",
         "mockery/mockery": "0.9.3"
